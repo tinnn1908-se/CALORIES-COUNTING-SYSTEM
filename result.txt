@@ -1,0 +1,3 @@
+Steak:543
+Tomato:7
+Egg:86
